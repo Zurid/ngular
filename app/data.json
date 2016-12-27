@@ -1,0 +1,288 @@
+[
+    {
+        "addressline1": "111 E. Las Olivas Blvd",
+        "addressline2": "Suite 51",
+        "city": "Fort Lauderdale",
+        "creditLimit": 100000,
+        "customerId": 1,
+        "discountCode": {
+            "discountCode": "N",
+            "rate": 0.00
+        },
+        "email": "jumboeagle@example.com",
+        "fax": "305 -555 -0 189",
+        "name": "JumboEagleCorp",
+        "phone": "305 -555 -0 188",
+        "state": "FL",
+        "zip": {
+            "areaLength": 547.967,
+            "areaWidth": 468.858,
+            "radius": 755.778,
+            "zipCode": "95117"
+        }
+    },
+    {
+        "addressline1": "9754 Main Street",
+        "addressline2": "P.O. Box 567",
+        "city": "Miami",
+        "creditLimit": 50000,
+        "customerId": 2,
+        "discountCode": {
+            "discountCode": "M",
+            "rate": 11.00
+        },
+        "email": "www.new.example.com",
+        "fax": "305 -555 -0 149",
+        "name": "NewEnterprises",
+        "phone": "305 -555 -0 148",
+        "state": "FL",
+        "zip": {
+            "areaLength": 472.859,
+            "areaWidth": 379.757,
+            "radius": 683.396,
+            "zipCode": "95035"
+        }
+    },
+    {
+        "addressline1": "8989RedAlbatrossDrive",
+        "addressline2": "Suite9897",
+        "city": "Houston",
+        "creditLimit": 25000,
+        "customerId": 25,
+        "discountCode": {
+            "discountCode": "M",
+            "rate": 11.00
+        },
+        "email": "www.wrencomp.example.com",
+        "fax": "214 -555 -0 134",
+        "name": "WrenComputers",
+        "phone": "214 -555 -0 133",
+        "state": "TX",
+        "zip": {
+            "areaLength": 328.963,
+            "areaWidth": 482.164,
+            "radius": 758.648,
+            "zipCode": "85638"
+        }
+    },
+    {
+        "addressline1": "8585SouthUpperMurrayDrive",
+        "addressline2": "P.O.Box456",
+        "city": "Alanta",
+        "creditLimit": 90000,
+        "customerId": 3,
+        "discountCode": {
+            "discountCode": "L",
+            "rate": 7.00
+        },
+        "email": "www.smallbill.example.com",
+        "fax": "555 -555 -0 176",
+        "name": "SmallBillCompany",
+        "phone": "555 -555 -0 175",
+        "state": "GA",
+        "zip": {
+            "areaLength": 385.849,
+            "areaWidth": 146.937,
+            "radius": 475.965,
+            "zipCode": "12347"
+        }
+    },
+    {
+        "addressline1": "65653 Lake Road",
+        "addressline2": "Suite 2323",
+        "city": "San Mateo",
+        "creditLimit": 65000,
+        "customerId": 36,
+        "discountCode": {
+            "discountCode": "H",
+            "rate": 16.00
+        },
+        "email": "www.bobhostcorp.example.com",
+        "fax": "650 -555 -0 161",
+        "name": "BobHostingCorp.",
+        "phone": "650 -555 -0 160",
+        "state": "CA",
+        "zip": {
+            "areaLength": 285.848,
+            "areaWidth": 173.794,
+            "radius": 368.386,
+            "zipCode": "94401"
+        }
+    },
+    {
+        "addressline1": "829EFlexDrive",
+        "addressline2": "Suite853",
+        "city": "SanJose",
+        "creditLimit": 26500,
+        "customerId": 106,
+        "discountCode": {
+            "discountCode": "L",
+            "rate": 7.00
+        },
+        "email": "www.centralcomp.example.com",
+        "fax": "408 -555 -0 150",
+        "name": "EarlyCentralComp",
+        "phone": "408 -555 -0 157",
+        "state": "CA",
+        "zip": {
+            "areaLength": 472.859,
+            "areaWidth": 379.757,
+            "radius": 683.396,
+            "zipCode": "95035"
+        }
+    },
+    {
+        "addressline1": "4381KellyValleyAve",
+        "addressline2": "Suite77",
+        "city": "SantaClara",
+        "creditLimit": 70000,
+        "customerId": 149,
+        "discountCode": {
+            "discountCode": "L",
+            "rate": 7.00
+        },
+        "email": "www.johnvalley.example.com",
+        "fax": "408 -555 -0 167",
+        "name": "JohnValleyComputers",
+        "phone": "408 -555 -0 169",
+        "state": "CA",
+        "zip": {
+            "areaLength": 547.967,
+            "areaWidth": 468.858,
+            "radius": 755.778,
+            "zipCode": "95117"
+        }
+    },
+    {
+        "addressline1": "456 44 4thStreet",
+        "addressline2": "Suite45",
+        "city": "RedwoodCity",
+        "creditLimit": 25000,
+        "customerId": 863,
+        "discountCode": {
+            "discountCode": "N",
+            "rate": 0.00
+        },
+        "email": "www.bignet.example.com",
+        "fax": "650-555 -0 180",
+        "name": "BigNetworkSystems",
+        "phone": "650 -555 -0 181",
+        "state": "CA",
+        "zip": {
+            "areaLength": 285.848,
+            "areaWidth": 173.794,
+            "radius": 368.386,
+            "zipCode": "94401"
+        }
+    },
+    {
+        "addressline1": "88NorthsouthDrive",
+        "addressline2": "BuildingC",
+        "city": "Dearborn",
+        "creditLimit": 100000,
+        "customerId": 777,
+        "discountCode": {
+            "discountCode": "L",
+            "rate": 7.00
+        },
+        "email": "www.westv.example.com",
+        "fax": "313 -555 -0 171",
+        "name": "WestValleyInc.",
+        "phone": "313 -555 -0 172",
+        "state": "MI",
+        "zip": {
+            "areaLength": 475.854,
+            "areaWidth": 408.074,
+            "radius": 684.675,
+            "zipCode": "48128"
+        }
+    },
+    {
+        "addressline1": "2267NEMichiganAve",
+        "addressline2": "Building21",
+        "city": "Dearborn",
+        "creditLimit": 5000000,
+        "customerId": 753,
+        "discountCode": {
+            "discountCode": "H",
+            "rate": 16.00
+        },
+        "email": "www.parts@ford.example.com",
+        "fax": "313 -555-0 152",
+        "name": "ZedMotorCo",
+        "phone": "313 -555 -0 151",
+        "state": "MI",
+        "zip": {
+            "areaLength": 475.854,
+            "areaWidth": 408.074,
+            "radius": 684.675,
+            "zipCode": "48128"
+        }
+    },
+    {
+        "addressline1": "52963NotouterDr",
+        "addressline2": "Suite35",
+        "city": "Detroit",
+        "creditLimit": 50000,
+        "customerId": 722,
+        "discountCode": {
+            "discountCode": "N",
+            "rate": 0.00
+        },
+        "email": "www.bparts.example.com",
+        "fax": "313 -555 -0 145",
+        "name": "BigCarParts",
+        "phone": "313 -555 -0 144",
+        "state": "MI",
+        "zip": {
+            "areaLength": 487.664,
+            "areaWidth": 456.632,
+            "radius": 753.765,
+            "zipCode": "48124"
+        }
+    },
+    {
+        "addressline1": "4400 527thStreet",
+        "addressline2": "Suite562",
+        "city": "NewYork",
+        "creditLimit": 10000,
+        "customerId": 409,
+        "discountCode": {
+            "discountCode": "L",
+            "rate": 7.00
+        },
+        "email": "www.oldmedia.example.com",
+        "fax": "212 -555 -0 111",
+        "name": "OldMediaProductions",
+        "phone": "212 -555 -0 110",
+        "state": "NY",
+        "zip": {
+            "areaLength": 975.875,
+            "areaWidth": 865.681,
+            "radius": 1987.854,
+            "zipCode": "10095"
+        }
+    },
+    {
+        "addressline1": "9653 211thAve",
+        "addressline2": "Floor4",
+        "city": "NewYork",
+        "creditLimit": 25000,
+        "customerId": 410,
+        "discountCode": {
+            "discountCode": "M",
+            "rate": 11.00
+        },
+        "email": "www.nycompltd@repair.example.com",
+        "fax": "212 -555 -0 197",
+        "name": "YankeeComputerRepairLtd",
+        "phone": "212 -555 -0 191",
+        "state": "NY",
+        "zip": {
+            "areaLength": 955.666,
+            "areaWidth": 923.556,
+            "radius": 1876.766,
+            "zipCode": "10096"
+        }
+    }
+]
